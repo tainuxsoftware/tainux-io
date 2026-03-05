@@ -5,7 +5,7 @@
 Source of the [tainux.io](https://tainux.io) website.
 
 Built with PHP / HTML / CSS following the Red Hat Design System.  
-Hosted on Hostgator — deployed via FTP/rsync.
+
 
 ---
 
