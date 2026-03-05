@@ -20,7 +20,7 @@ tainux-io/
 │   └── images/        Logo, favicons, assets
 └── .github/
     └── workflows/
-        └── deploy.yml Deploy to Hostgator on push to main
+        
 ```
 
 ## License
